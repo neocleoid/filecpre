@@ -1,0 +1,6 @@
+*.exe
+*.txt
+*.jpg
+*.fc
+.vscode/
+NeoClear
